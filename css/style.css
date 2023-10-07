@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 20px;
+    font-size: 40px;
+  }
+    .box-one {
+    background-color: red;
+    border: 20px solid purple;
+    padding: 20px;
+    border-width: 10;
+  } 
+  
+  .box-two {
+    background-color: blue;
+    border: 0 solid yellow;
+  } 
